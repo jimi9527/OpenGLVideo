@@ -20,6 +20,7 @@
         <activity android:name=".ImageOpenGlActivity"/>
         <activity android:name=".MeadiaActivity"/>
         <activity android:name=".egl.EGLBackEnvActivity"/>
+        <activity android:name=".fbo.FBOActivity"/>
     </application>
 
 </manifest>
